@@ -1,0 +1,32 @@
+[
+    {
+        "c_id": 1,
+        "catagory": "Fastest Shipping",
+        "img": "https://i.ibb.co/xsC8yys/shipping.jpg"
+    },
+    {
+        "c_id": 2,
+        "catagory": "Holiday Sell",
+        "img": "https://i.ibb.co/nmQZ7f7/newSell.jpg"
+    },
+    {
+        "c_id": 3,
+        "catagory": "Electronics Gift Guide",
+        "img": "https://i.ibb.co/Kzp1Mnf/tech-Accessories.jpg"
+    },
+    {
+        "c_id": 4,
+        "catagory": "Best Electronics",
+        "img": "https://i.ibb.co/5jLG7qS/computers.jpg"
+    },
+    {
+        "c_id": 5,
+        "catagory": "Home Luxury",
+        "img": "https://i.ibb.co/LRvPwS9/home-Luxrey.jpg"
+    },
+    {
+        "c_id": 6,
+        "catagory": "Amazing Gadgets",
+        "img": "https://i.ibb.co/4jVNJk1/tech-Gadgets.jpg"
+    }
+]
