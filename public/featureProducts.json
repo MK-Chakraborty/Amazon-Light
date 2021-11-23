@@ -1,0 +1,235 @@
+[
+    {
+        "key": "000001",
+        "category": "graphics card",
+        "name": "PNY GeForce RTX 3070 8GB XLR8 Gaming Revel Epic-X RGB Triple Fan Graphics Card LHR",
+        "seller": "PNY",
+        "wholePrice": "1129",
+        "priceFraction": "99",
+        "stock": 15,
+        "star": 5,
+        "starCount": 15532,
+        "img": "https://i.ibb.co/pJggCyG/graphics-Card.jpg",
+        "features": [
+            {
+                "description": "Graphics Coprocessor",
+                "value": "NVIDIA GeForce RTX 3070"
+            },
+            {
+                "description": "Video Output Interface",
+                "value": "DisplayPort, HDMI"
+            },
+            {
+                "description": "Chipset Brand",
+                "value": "NVIDIA"
+            },
+            {
+                "description": "Graphics RAM Type",
+                "value": "GDDR6"
+            }
+        ],
+        "price": 1298.99,
+        "shipping": 3.99
+    },
+
+    {
+        "key": "PH315-54-760S",
+        "category": "laptop",
+        "name": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop | Intel i7-11800H | NVIDIA GeForce RTX 3060 Laptop GPU",
+        "seller": "Acer",
+        "wholePrice": "1129",
+        "priceFraction": "99",
+        "stock": 23,
+        "star": 5,
+        "starCount": 13736,
+        "img": "https://i.ibb.co/KLzMrfx/laptop.jpg",
+        "features": [
+            {
+                "description": "Screen Size",
+                "value": "15.6 Inches"
+            },
+            {
+                "description": "Operating System",
+                "value": "Windows 10 Home"
+            },
+            {
+                "description": "Human Interface Input",
+                "value": "Keyboard"
+            },
+            {
+                "description": "Chipset Brand",
+                "value": "NVIDIA"
+            },
+            {
+                "description": "Processor Count",
+                "value": "8"
+            },
+            {
+                "description": "CPU Manufacturer",
+                "value": "Intel"
+            }
+        ],
+        "price": 1288.49,
+        "shipping": 9.32
+    },
+
+    {
+        "key": "000002",
+        "category": "mountain bike",
+        "name": "Mongoose Malus Adult Fat Tire Mountain Bike, 26-Inch Wheels, 7-Speed, Twist Shifters, Steel Frame, Mechanical Disc Brakes, Multiple Colors",
+        "seller": "Mongoose",
+        "wholePrice": "1129",
+        "priceFraction": "99",
+        "stock": 32,
+        "star": 5,
+        "starCount": 16730,
+        "img": "https://i.ibb.co/Qnz7qmb/mountain-Bike.jpg",
+        "features": [
+            {
+                "description": "Wheel Size",
+                "value": "26 Inches"
+            },
+            {
+                "description": "Suspension Type",
+                "value": "Rigid"
+            },
+            {
+                "description": "Special Feature",
+                "value": "Fat tire, Mountain bike"
+            },
+            {
+                "description": "Number of Speeds",
+                "value": "7"
+            },
+            {
+                "description": "Size",
+                "value": "18-Inch Frame"
+            },
+            {
+                "description": "Color",
+                "value": "Matte Black"
+            }
+        ],
+        "price": 1688.69,
+        "shipping": 15.32
+    },
+
+    {
+        "key": "G05S6-HB",
+        "category": "case",
+        "name": "MUSETEX 6pcs 120mm ARGB Fans and USB3.0 ATX Mid-Tower Chassis Gaming PC Case, 2 Tempered Glass Panels Gaming Style Windows Computer Case Desktop Case",
+        "seller": "MUSETEX",
+        "wholePrice": "1129",
+        "priceFraction": "99",
+        "stock": 18,
+        "star": 5,
+        "starCount": 14736,
+        "img": "https://i.ibb.co/7ny3Zkw/pcCase.jpg",
+        "features": [
+            {
+                "description": "Color",
+                "value": "Black"
+            },
+            {
+                "description": "Hard Disk",
+                "value": "2.5 Inches"
+            },
+            {
+                "description": "Cooling Method",
+                "value": "Water"
+            },
+            {
+                "description": "Fan Size",
+                "value": "120 Millimeters"
+            },
+            {
+                "description": "Item Dimensions LxWxH",
+                "value": "17.7 x 17.6 x 8.3 inches"
+            }
+        ],
+        "price": 1188.49,
+        "shipping": 9.32
+    },
+
+    {
+        "key": "32S335",
+        "category": "tv",
+        "name": "TCL 32-inch 3-Series 720p Roku Smart TV - 32S335, 2021 Model",
+        "seller": "TCL",
+        "wholePrice": "119",
+        "priceFraction": "99",
+        "stock": 23,
+        "star": 5,
+        "starCount": 19736,
+        "img": "https://i.ibb.co/JB5LFd9/smartTV.jpg",
+        "features": [
+            {
+                "description": "Screen Size",
+                "value": "32 Inches"
+            },
+            {
+                "description": "Supported Internet Services",
+                "value": "Netflix, Skype, Hulu, Youtube, Spotify, Amazon Instant Video"
+            },
+            {
+                "description": "Connectivity Technology",
+                "value": "Wi-Fi, USB, HDMI"
+            },
+            {
+                "description": "Resolution",
+                "value": "720p"
+            },
+            {
+                "description": "Display Technology",
+                "value": "LED"
+            },
+            {
+                "description": "Refresh Rate",
+                "value": "60 Hz"
+            }
+        ],
+        "price": 208.49,
+        "shipping": 23.32
+    },
+
+    {
+        "key": "PH315-54-760S",
+        "category": "watch",
+        "name": "Fitbit Versa 2 Health and Fitness Smartwatch with Heart Rate, Music, Alexa Built-In, Sleep and Swim Tracking, Black/Carbon, One Size",
+        "seller": "Fitbit",
+        "wholePrice": "109",
+        "priceFraction": "99",
+        "stock": 36,
+        "star": 5,
+        "starCount": 17736,
+        "img": "https://i.ibb.co/XFCwXQH/smart-Watch.jpg",
+        "features": [
+            {
+                "description": "Supported Application",
+                "value": "Weather, Sleep Monitor, Reminders, Voice Assistant, Alexa, Phone, GPS, Heart Rate Monitor"
+            },
+            {
+                "description": "Wireless Communication Standard",
+                "value": "Bluetooth"
+            },
+            {
+                "description": "Connectivity Technology",
+                "value": "GPS"
+            },
+            {
+                "description": "Operating System",
+                "value": "Android"
+            },
+            {
+                "description": "Compatible Devices",
+                "value": "IPhone 6 Plus"
+            },
+            {
+                "description": "Screen Size",
+                "value": "1.34 Inches"
+            }
+        ],
+        "price": 118.99,
+        "shipping": 3.32
+    }
+]
