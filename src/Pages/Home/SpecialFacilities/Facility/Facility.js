@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap';
 
 const Facility = ({ facility }) => {
     return (
-        <Card style={{ width: '24rem' }} className="my-3">
+        <Card style={{ width: '16rem' }} className="my-3">
             <Card.Body>
                 <Card.Title>{facility.catagory}</Card.Title>
             </Card.Body>

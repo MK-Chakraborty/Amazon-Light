@@ -12,7 +12,7 @@ const SpecialFacilities = () => {
     },[]);
 
     return (
-        <Container fluid className="position-absolute" style={{zIndex: 1, top: "19rem"}}>
+        <Container fluid>
             <div className="d-flex flex-wrap justify-content-around">
                 {
                     facilities.map(facility => <Facility key={facility.c_id} facility={facility}/>)
